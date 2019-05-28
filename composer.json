@@ -1,0 +1,14 @@
+{
+  "name": "braintly/sdkphp",
+  "description": "PHP SDK para OAuth 2.0 API",
+  "keywords": ["braintly", "php", "sdk"],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Braintly": "src/"
+    }
+  }
+}
