@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Client to access generic APIs with OAuth 2.0. It can be distibuted for platforms to make API requests in PHP.
+Client to access generic APIs with OAuth 2.0. It can be distibuted to make encapsulated API requests in PHP.
  
 ### Requirements
 
